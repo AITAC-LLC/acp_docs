@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Asset Component Parameter (ACP) System Technical Specification](README.md)
+* [ACP Framework Technical Specification](README.md)
 * [01. Introduction](01.-introduction.md)
 * [02. Core Concepts](02.-core-concepts.md)
 * [03. System Architecture](03.-system-architecture.md)
